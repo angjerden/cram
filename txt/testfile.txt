@@ -1,0 +1,3 @@
+What?;This!
+Is this a question?;Yes
+To be or not to be, that is the (...);Question

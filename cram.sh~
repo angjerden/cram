@@ -1,0 +1,3 @@
+cd /media/Data/Bruker_data/Dropbox-hotmail/Dropbox/Public/cram_groovy/out/production/cram_groovy/
+java -classpath $GROOVY_HOME/embeddable/groovy-all-1.8.4.jar:. cram
+

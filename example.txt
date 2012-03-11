@@ -1,0 +1,3 @@
+A question;An answer|An alternative answer
+Yes?;Yes|No|Maybe
+To be or not to be, that is the (...);Question
